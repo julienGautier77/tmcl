@@ -1,0 +1,72 @@
+{
+    "TRA": {
+        "AccMax": 2000,
+        "Cmax": 100,
+        "Cstandby": 0,
+        "PulseDiv": 2,
+        "RampDiv": 2,
+        "Vmax": 2000,
+        "stepResolution": 7,
+        "stepmotor": 1000.0
+    },
+    "MFA_PP": {
+        "AccMax": 1000,
+        "Cmax": 80,
+        "Cstandby": 0,
+        "PulseDiv": 5,
+        "RampDiv": 5,
+        "Vmax": 1500,
+        "stepResolution": 5,
+        "stepmotor": 66.05
+    },
+    "NSA": {
+        "AccMax": 1500,
+        "Cmax": 50,
+        "Cstandby": 0,
+        "PulseDiv": 5,
+        "RampDiv": 5,
+        "Vmax": 1000,
+        "stepResolution": 8,
+        "stepmotor": 1
+    },
+    "UE31 rotation URMPP100": {
+        "AccMax": 1500,
+        "Cmax": 60,
+        "Cstandby": 0,
+        "PulseDiv": 2,
+        "RampDiv": 2,
+        "Vmax": 1000,
+        "stepResolution": 6,
+        "stepmotor": 64000
+    },
+    "UE41": {
+        "AccMax": 1500,
+        "Cmax": 50,
+        "Cstandby": 0,
+        "PulseDiv": 1,
+        "RampDiv": 1,
+        "Vmax": 1000,
+        "stepResolution": 8,
+        "stepmotor": 9000
+    },
+    "UE41 rotation URMPP sous vide": {
+        "AccMax": 1500,
+        "Cmax": 50,
+        "Cstandby": 0,
+        "PulseDiv": 3,
+        "RampDiv": 3,
+        "Vmax": 1000,
+        "stepResolution": 6,
+        "stepmotor": 6400
+    },
+    "UTS 100PP": {
+        "AccMax": 1500,
+        "Cmax": 120,
+        "Cstandby": 0,
+        "PulseDiv": 3,
+        "RampDiv": 3,
+        "Vmax": 1000,
+        "stepResolution": 6,
+        "stepmotor": 6.40
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "rack1": {
+        "address": "socket://10.0.8.7:4000",
+        "description": "Raspberry Pi tmcl-rack1 (ser2net)"
+    },
+    "rackLocal": {
+        "address": "/dev/ttyS4",
+        "description": "Rack branché en local sur ce PC"
+    }
+}
